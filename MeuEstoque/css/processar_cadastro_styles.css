@@ -1,0 +1,70 @@
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1e4b42;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    margin-left: 10px;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+form label {
+    display: inline-block;
+    width: 150px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px; /* Espaçamento entre as células */
+    border-color: #333;
+    border-style: groove;
+}
+
+td, th {
+    padding: 10px; /* Espaçamento interno das células */
+    border-right: #333;
+}
+
+
